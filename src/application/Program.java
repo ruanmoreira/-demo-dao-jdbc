@@ -47,7 +47,7 @@ public class Program {
 		System.out.println("\n=== TEST 6: seller delete =====");
 		System.out.println("Enter id for delete test: ");
 		int id = sc.nextInt();
-		System.out.println("if you i want to delete more than one");
+		System.out.println("if you want to delete more than one");
 		int i= sc.nextInt();
 		while (i >= id) {
 			id++;
